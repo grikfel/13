@@ -1,0 +1,8 @@
+C:\Users\Doberman\source\repos\13_1\13_1\bin\Debug\13_1.exe.config
+C:\Users\Doberman\source\repos\13_1\13_1\bin\Debug\13_1.exe
+C:\Users\Doberman\source\repos\13_1\13_1\bin\Debug\13_1.pdb
+C:\Users\Doberman\source\repos\13_1\13_1\obj\Debug\13_1.csproj.AssemblyReference.cache
+C:\Users\Doberman\source\repos\13_1\13_1\obj\Debug\13_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doberman\source\repos\13_1\13_1\obj\Debug\13_1.csproj.CoreCompileInputs.cache
+C:\Users\Doberman\source\repos\13_1\13_1\obj\Debug\13_1.exe
+C:\Users\Doberman\source\repos\13_1\13_1\obj\Debug\13_1.pdb
